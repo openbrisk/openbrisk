@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "brisk": "git@github.com:openbrisk/brisk.git",
+    "brisk-runtime-dotnetcore": "git@github.com:openbrisk/brisk-runtime-dotnetcore.git",
+    "brisk-cli": "git@github.com:openbrisk/brisk-cli.git",
+    "brisk-ui": "git@github.com:openbrisk/brisk-ui.git"
+  }
+}
