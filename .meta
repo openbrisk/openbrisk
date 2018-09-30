@@ -1,20 +1,9 @@
 {
   "projects": {
     "brisk": "git@github.com:openbrisk/brisk.git",
-    "brisk-runtime-dotnetcore": "git@github.com:openbrisk/brisk-runtime-dotnetcore.git",
     "brisk-cli": "git@github.com:openbrisk/brisk-cli.git",
-    "brisk-ui": "git@github.com:openbrisk/brisk-ui.git",
-    "brisk-functions": "git@github.com:openbrisk/brisk-functions.git",
-    "brisk-website": "git@github.com:openbrisk/brisk-website.git",
-    "brisk-runtime-php": "git@github.com:openbrisk/brisk-runtime-php.git",
     "brisk-runtime": "git@github.com:openbrisk/brisk-runtime.git",
-    "brisk-runtime-ruby": "git@github.com:openbrisk/brisk-runtime-ruby.git",
-    "brisk-runtime-go": "git@github.com:openbrisk/brisk-runtime-go.git",
-    "brisk-runtime-binary": "git@github.com:openbrisk/brisk-runtime-binary.git",
-    "brisk-runtime-java": "git@github.com:openbrisk/brisk-runtime-java.git",
-    "brisk-runtime-python": "git@github.com:openbrisk/brisk-runtime-python.git",
-    "brisk-runtime-nodejs": "git@github.com:openbrisk/brisk-runtime-nodejs.git",
-    "brisk-deploy": "git@github.com:openbrisk/brisk-deploy.git",
-    "serverless-openbrisk": "git@github.com:openbrisk/serverless-openbrisk.git"
+    "brisk-runtime-dotnetcore": "git@github.com:openbrisk/brisk-runtime-dotnetcore.git",
+    "brisk-ui": "git@github.com:openbrisk/brisk-ui.git"
   }
 }
